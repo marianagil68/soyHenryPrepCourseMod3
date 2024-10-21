@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  }
+
+  #titulos {
+    background-color: #f4c8c8;
+    display: flex;
+    padding: 10px;
+
+  }
+
+  #titulos-texto {
+    padding-left: 30px;
+  }
+
+  .menu {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+
+  }
